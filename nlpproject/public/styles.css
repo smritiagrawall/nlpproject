@@ -7,12 +7,12 @@
     font-style: initial;
     padding-left: 3rem;
     /* display: flex; */
-   border :2px solid white;
+   /* border :2px solid white; */
 }
 
 .home2{
     color: aliceblue;
-    border :2px solid white;
+    /* border :2px solid white; */
     font-style: initial;
     display: flex;
     flex-direction: row;
@@ -32,7 +32,7 @@
 .centerhead{
     text-align: center;
     padding-top: 9rem;
-    border: 2px solid wheat;
+    /* border: 2px solid wheat; */
     padding-left: 21rem;
     display: flex;
     flex-direction: row;
